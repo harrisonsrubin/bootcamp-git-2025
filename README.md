@@ -5,7 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Harrison Rubin
+**Name:** Harrison S. Rubin 
 
 **Hobbies:**
 
